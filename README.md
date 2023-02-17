@@ -54,5 +54,7 @@ DB_PW='your_mysql_password'
 
 # Demo Video
 
-*click the link for a walkthrough demo video*
+*click the link below for a walkthrough demo video*
+
+https://drive.google.com/file/d/1EEq8u0Ecjps7aqt2BTt6BiupbAnkvey2/view?usp=sharing
 
