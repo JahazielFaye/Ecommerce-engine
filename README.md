@@ -3,7 +3,7 @@
 ![JEST](https://img.shields.io/badge/-SQL-darkred) ![Sequelize](https://img.shields.io/badge/-Sequelize-blue) ![Dotenv](https://img.shields.io/badge/-Dotenv-purple)
 
 
-*A back-end solution for an e-commerce website designed to help an internet retail company compete with other e-commerce companies.*
+*This project involves building the back-end for an e-commerce site using a working Express.js API and configuring it to use Sequelize to interact with a MySQL database. The objective is to understand the fundamental architecture of e-commerce sites and develop skills in building back-end systems for e-commerce applications. Although the application won't be deployed, you can watch walkthrough video attached below to demonstrate the functionality of the project and ensure that all acceptance criteria are met.*
 
 ## User Story
 
@@ -18,6 +18,9 @@ SO THAT my company can compete with other e-commerce companies
 
 To install the necessary dependencies, run the following command:
 
+**npm install**
+
+
 To use the application, follow these steps:
 
 1. Create a `.env` file with the following variables:
@@ -28,17 +31,17 @@ DB_PW='your_mysql_password'
 
 2. Create the database by running the following command:
 
-npm run schema
+**npm run schema**
 
 
 3. Seed the database with test data by running the following command:
 
-npm run seed
+**npm run seed**
 
 
 4. Start the application by running the following command:
 
-npm start
+**npm start**
 
 5. Test the API routes using a tool such as Insomnia.
 
